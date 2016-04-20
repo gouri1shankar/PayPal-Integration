@@ -1,0 +1,3 @@
+If attached database is not working create table using below query in your server and change connection string in web.config file
+
+create table purchase(pname nvarchar(50),pdesc nvarchar(50),price nvarchar(50),uname nvarchar(50))
